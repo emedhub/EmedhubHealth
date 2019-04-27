@@ -21,7 +21,7 @@ public class Base {
 		try {
 
 			prop = new Properties();
-			FileInputStream ip = new FileInputStream("E:/WorkspaceAutomation/EmedhubTest/src/main/java/com/emed/qa/Config/config.properties");
+			FileInputStream ip = new FileInputStream("E:/WorkspaceAutomation1/EmedhubTest/src/main/java/com/emed/qa/Config/config.properties");
 			prop.load(ip);
 
 		} catch (FileNotFoundException E) {
