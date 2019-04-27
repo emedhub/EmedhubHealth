@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="68958" started-at="2019-04-26T10:24:39Z" finished-at="2019-04-26T10:25:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="68958" started-at="2019-04-26T10:24:39Z" finished-at="2019-04-26T10:25:48Z">
+      <class name="com.emed.qa.Testcase.PatientHistorypageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.emed.qa.Testcase.PatientHistorypageTest@604ed9f0]" name="setup" is-config="true" duration-ms="9173" started-at="2019-04-26T10:24:39Z" finished-at="2019-04-26T10:24:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:com.emed.qa.Testcase.PatientHistorypageTest@604ed9f0]" name="logintest" duration-ms="59699" started-at="2019-04-26T10:24:49Z" finished-at="2019-04-26T10:25:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+      </class> <!-- com.emed.qa.Testcase.PatientHistorypageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
